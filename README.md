@@ -1,4 +1,4 @@
-# Swag Labs (SauceDemo) Manual QA Test Suite
+# Swag Labs (SauceDemo) Test Suite — Manual Testing
 
 This is a personal practice project. I tested [SauceDemo](https://www.saucedemo.com), a demo website made for QA practice, and wrote test cases and bug reports based on what I found.
 
