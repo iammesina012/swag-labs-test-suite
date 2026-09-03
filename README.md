@@ -31,31 +31,11 @@ I tested 9 parts of the site, with 73 test cases total:
 
 Each test case has: Test Case ID, Test Scenario, Precondition, Test Data, Test Steps, Expected Result, Actual Result, and Status.
 
-## Bugs Found
-
-While testing, I found 4 bugs using the `standard_user` account and wrote them up as bug reports (Title, Environment, Steps to Reproduce, Expected Result, Actual Result):
-
-1. Product name shows leftover code text instead of a normal name
-2. Sort dropdown arrow icon doesn't open the dropdown when clicked (only the text works)
-3. Username/Password fields show error styling even when the real issue is session timeout, not wrong input
-4. System lets you go to checkout even with an empty cart
-
 ## Tools Used
 
 - Excel — for practicing writing test cases and bug reports
 - Manual testing only, no automation
-
-## File
-
-- `Swag_Labs_Test_Suite.xlsx` — all test cases by page, plus a bug report tab
-
-## Skills Practiced
-
-- Writing test cases
-- Positive, negative, and edge case testing
-- Exploratory / ad-hoc testing
-- Finding and reporting bugs
-
+  
 ---
 
 This is a personal project for practice, not affiliated with SauceDemo/Sauce Labs.
